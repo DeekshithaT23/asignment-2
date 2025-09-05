@@ -1,0 +1,53 @@
+{
+   "questions": [
+       {"question": "What group of hormones does GH stimulation on the liver cause the release of?",
+        "options": ["Anterior Pituitary hormones", "Thyroid hormone", "Somatomedins", "Hypothalamic hormones"],
+        "correct_answer": "Somatomedins"
+        },
+       {
+        "question": "Which of the following forms of binding site modulation requires an enzyme?",
+         "options": ["Allosteric modulation", "Covalent modulation", "All of the above", "None of the above"],
+         "correct_answer": "Covalent modulation"
+         },
+       {
+        "question": "Which of the following does not have an influence on ion channel specificity?",
+         "options": ["Channel diameter", "Charge", "Selectivity filters", "Ion concentration"],
+         "correct_answer": "Ion concentration"
+         },
+       {
+        "question": "What does Na+ have to be bound to diffuse across the membrane? ",
+         "options": ["Potassium ", "Glucose", "Calcium", "Chloride"],
+         "correct_answer": "Glucose"
+         },
+       {
+        "question": "Which hormone is NOT secreted by a hypothalamic neuron?",
+         "options": ["Oxytocin", "Antidiuretic hormone", "ACTH", "CRH"],
+         "correct_answer": "ACTH"
+         },
+       {
+        "question": "Which hormone does NOT get released via a direct pathway?",
+         "options": ["Epinephrine", "Oxytocin", "Glucagon", "TRH"],
+         "correct_answer": "Glucagon"
+         },
+       {
+        "question": "When sodium is transported from the cell into the blood capillaries using the Na+/K+ pump what type of transport is being used? ",
+         "options": ["Facilitated Diffusion", "Passive transport", "Active transport", "Secondary active transport"],
+         "correct_answer": "Active transport"
+         },
+       {
+        "question": "ECF and ICF have different concentrations of molecules. The ECF have a high concentration of which molecules listed below?",
+         "options": ["O2, glucose, Na+, K+, Ca2+", "K+, HCO3-, Cl-", "HCO3-, Cl-, Mg2+", "Na+, HCO3-, Cl-"],
+         "correct_answer": "Na+, HCO3-, Cl-"
+         },
+       {
+        "question": "Which organ is made up of neuronal tissue?",
+         "options": ["Kidney", "Adrenal medulla", "Pancreas", "Liver"],
+         "correct_answer": "Adrenal medulla"
+         },
+       {
+        "question": "Where do the ventral roots exit the spinal cord?",
+         "options": ["Lateral", "Medial ", "Anterior", "Posterior"],
+         "correct_answer": "Anterior"
+         }
+    ]
+}
